@@ -1,4 +1,4 @@
-package deos87_go_first
+package main
 
 import "fmt"
 
